@@ -1,3 +1,5 @@
+
+/* this starts a uniform setting for all boxes */
 * {
     box-sizing: border-box;
     padding: 0;
