@@ -9,5 +9,5 @@ https://jdesgarennes.github.io/Homework-1/
 
 Here is a brief screenshot of the resulting page.
 
-![plot](.assets/images/screenshot.jpg)
+![plot](./assets/images/Screenshot.jpg)
 
